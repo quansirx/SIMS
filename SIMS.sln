@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StuInfo_ManagementSystem", "StuInfo_ManagementSystem\StuInfo_ManagementSystem.csproj", "{770D2245-6D0F-4AEC-8182-060F721CEBD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{29E21EDB-4002-472E-B52B-D60BB8ED705C}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QJM_Setup1", "QJM_Setup1\QJM_Setup1.vdproj", "{2741FF99-A16F-421E-BDD7-24F914F51D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770D2245-6D0F-4AEC-8182-060F721CEBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770D2245-6D0F-4AEC-8182-060F721CEBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770D2245-6D0F-4AEC-8182-060F721CEBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770D2245-6D0F-4AEC-8182-060F721CEBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2741FF99-A16F-421E-BDD7-24F914F51D2F}.Debug|Any CPU.ActiveCfg = Debug
+		{2741FF99-A16F-421E-BDD7-24F914F51D2F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C407C57F-4D91-4652-88F1-70C607AD3EC8}
+	EndGlobalSection
+EndGlobal
