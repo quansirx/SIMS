@@ -8,6 +8,7 @@ namespace StuInfo_ManagementSystem
         MySqlCommand msc;
         public static MySqlConnection GetSqlConnection(String SqlConnCMD)
         {
+            //
             MySqlConnection c = null;
             c = new MySqlConnection(SqlConnCMD);
             try
